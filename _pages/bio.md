@@ -8,6 +8,11 @@ horizontal: false
 order: 2
 ---
 
+{:refdef: style="text-align: center;"}
+![CV as PDF](https://danbischof.github.io/assets/pdf/danielbischof_cv.pdf) 
+{: refdef}
+
+
 *  2021 – today: **Associate Professor (tenured)** in Political Science, Aarhus University
 *  2019 – 2023: **Ambizione Grant Holder**, University of Zurich
 *  2016 – 2018: **Associated Lecturer**, ETH Zurich
@@ -16,7 +21,6 @@ order: 2
 *  2006 – 2012: **Student** in Political Science & Economics, University of Bamberg
 
 
-[CV as PDF](https://danbischof.github.io/assets/pdf/danielbischof_cv.pdf) 
 
 
 ## Short Bio:
