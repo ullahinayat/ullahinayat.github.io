@@ -16,7 +16,7 @@ order: 2
 *  2006 – 2012: **Student** in Political Science & Economics, University of Bamberg
 
 <center> 
-[Download CV as PDF]({{ site.url }}/assets/pdf/danielbischof_cv.pdf)
+[Download CV as PDF](https://danbischof.github.io/assets/pdf/danielbischof_cv.pdf) 
 </center>
 
 ## Short Bio:
