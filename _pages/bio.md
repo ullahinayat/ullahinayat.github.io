@@ -7,12 +7,12 @@ nav: true
 horizontal: false
 ---
 
-*  2021 – today: Associate Professor (tenured) in Political Science, Aarhus University
-*  2019 – 2023: Ambizione Grant Holder, University of Zurich
-*  2016 – 2018: Associated Lecturer, ETH Zurich
-*  2015 – 2019: Senior Research (Oberassistent), University of Zurich
-*  2012 – 2016: PhD Student in Political Science, University of Leicester
-*  2006 – 2012: Student in Political Science & Economics, University of Bamberg
+*  2021 – today: **Associate Professor (tenured)** in Political Science, Aarhus University
+*  2019 – 2023: **Ambizione Grant Holder**, University of Zurich
+*  2016 – 2018: **Associated Lecturer**, ETH Zurich
+*  2015 – 2019: **Senior Researcher (Oberassistent)**, University of Zurich
+*  2012 – 2016: **PhD Student** in Political Science, University of Leicester
+*  2006 – 2012: **Student** in Political Science & Economics, University of Bamberg
 
 <center>[Download CV](/assets/danielbischof_cv.pdf)</center>
 
