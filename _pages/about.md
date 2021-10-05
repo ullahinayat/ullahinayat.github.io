@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Aarhus University & University of Zurich</a>. 
+description: <a href="https://ps.au.dk">Aarhus University & University of Zurich</a>. 
 
 profile:
   align: right
