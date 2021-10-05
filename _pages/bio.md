@@ -9,7 +9,7 @@ order: 2
 ---
 
 {:refdef: style="text-align: center;"}
-![CV as PDF](https://danbischof.github.io/assets/pdf/danielbischof_cv.pdf) 
+[CV as PDF](https://danbischof.github.io/assets/pdf/danielbischof_cv.pdf) 
 {: refdef}
 
 
