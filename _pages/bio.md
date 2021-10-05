@@ -15,7 +15,9 @@ order: 2
 *  2012 – 2016: **PhD Student** in Political Science, University of Leicester
 *  2006 – 2012: **Student** in Political Science & Economics, University of Bamberg
 
-<center>[Download CV](/assets/danielbischof_cv.pdf)</center>
+<center> 
+[Download CV as PDF]({{ site.url }}/assets/pdf/danielbischof_cv.pdf)
+</center>
 
 ## Short Bio:
 
