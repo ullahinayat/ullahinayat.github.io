@@ -1,19 +1,20 @@
 ---
 layout: page
-title: bio, CV, research 
-permalink: /bio_cv_research/
+title: bio & CV
+permalink: /bio/
 description: # A growing collection of your cool projects.
 nav: true
-display_categories: [research projects]
 horizontal: false
 ---
 
-*  2021 – : Associate Professor (tenured) in Political Science, Aarhus University
+*  2021 – today: Associate Professor (tenured) in Political Science, Aarhus University
 *  2019 – 2023: Ambizione Grant Holder, University of Zurich
 *  2016 – 2018: Associated Lecturer, ETH Zurich
 *  2015 – 2019: Senior Research (Oberassistent), University of Zurich
 *  2012 – 2016: PhD Student in Political Science, University of Leicester
 *  2006 – 2012: Student in Political Science & Economics, University of Bamberg
+
+[Download CV](danielbischof_cv.pdf)
 
 ## Short Bio:
 
@@ -30,53 +31,6 @@ I study political culture and norms across a wide set of topics and contexts:
 1.  I analyze how socialization processes affect political identities and the construction of political norms. Does military service produce radicals? Or is it the case that more radicals select into the military service?
 1.  Violence, as well as exclusionary policies against minorities, are a central concern also in advanced democracies. In several projects, I try to understand under which societal conditions exclusionary practices occur and how historical legacies of exclusion affect us today.
 
-In previous research, I studied public opinion formation, party competition, diffusion processes, and political protest. My research has been published or is forthcoming in the American Journal of Political Science, the American Political Science Review, and the British Journal of Political Science amongst others.
+In previous research, I studied public opinion formation, party competition, diffusion processes, and political protest. My research has been published or is forthcoming in the *American Journal of Political Science*, the *American Political Science Review*, and the *British Journal of Political Science* amongst others.
 
-<div class="projects">
-  {% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-    {% for category in page.display_categories %}
-      <h2 class="category">{{ category }}</h2>
-      {% assign categorized_projects = site.projects | where: "category", category %}
-      {% assign sorted_projects = categorized_projects | sort: "importance" %}
-      <!-- Generate cards for each project -->
-      {% if page.horizontal %}
-        <div class="container">
-          <div class="row row-cols-2">
-          {% for project in sorted_projects %}
-            {% include projects_horizontal.html %}
-          {% endfor %}
-          </div>
-        </div>
-      {% else %}
-        <div class="grid">
-          {% for project in sorted_projects %}
-            {% include projects.html %}
-          {% endfor %}
-        </div>
-      {% endif %}
-    {% endfor %}
 
-  {% else %}
-  <!-- Display projects without categories -->
-    {% assign sorted_projects = site.projects | sort: "importance" %}
-    <!-- Generate cards for each project -->
-    {% if page.horizontal %}
-      <div class="container">
-        <div class="row row-cols-2">
-        {% for project in sorted_projects %}
-          {% include projects_horizontal.html %}
-        {% endfor %}
-        </div>
-      </div>
-    {% else %}
-      <div class="grid">
-        {% for project in sorted_projects %}
-          {% include projects.html %}
-        {% endfor %}
-      </div>
-    {% endif %}
-
-  {% endif %}
-
-</div>
