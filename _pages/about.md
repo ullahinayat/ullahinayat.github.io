@@ -15,6 +15,7 @@ profile:
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+order: 1
 ---
 
 I am an Associate Professor *(tenured)* of Political Science at the Department of Political Science at Aarhus University and a SNSF Ambizione Grant Holder at the University of Zurich. 

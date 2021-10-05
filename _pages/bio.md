@@ -5,6 +5,7 @@ permalink: /bio/
 description: # A growing collection of your cool projects.
 nav: true
 horizontal: false
+order: 2
 ---
 
 *  2021 – today: **Associate Professor (tenured)** in Political Science, Aarhus University
