@@ -27,7 +27,7 @@ order: 6
       {% else %}
         <div class="grid">
           {% for project in sorted_projects %}
-            {% include projects.html %}
+            {% include teaching.html %}
           {% endfor %}
         </div>
       {% endif %}
