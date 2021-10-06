@@ -2,8 +2,7 @@
 layout: page
 title: Party Politics (seminar)
 description: BA seminar introducing students to party politics.
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+img: /assets/img/parties.jpg
 importance: 2
 category: Comparative
 ---
