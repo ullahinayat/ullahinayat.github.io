@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Invasive Parties (seminar)
+description: MA seminar discussing how societies change due to new parties emerging.
 img:
-importance: 3
-category: Behavior
+importance: 1
+category: Comparative
 ---
 
 Every project has a beautiful feature showcase page.

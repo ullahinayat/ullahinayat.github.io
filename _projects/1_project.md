@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Political Culture and Norms (seminar)
+description: MA seminar discussing where political culture and norms come from and how they change
 img: /assets/img/12.jpg
 importance: 1
-category: Comparative 
+category: Behavior 
 ---
 
 Every project has a beautiful feature showcase page.

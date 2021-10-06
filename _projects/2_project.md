@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Political Institutions (lecture & tutorials)
+description: BA lectures and tutorials on political institutions and behavior
 img: /assets/img/3.jpg
 importance: 2
-category: Comparative
+category: Behavior
 ---
 
 Every project has a beautiful feature showcase page.
