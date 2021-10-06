@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overview on Stata figure schemes  
-date: 2021-07-04 16:25:00
+date: 2021-10-05 16:25:00
 description: this post gives us a quick overview about my Stata figure schemes 
 ---
 
