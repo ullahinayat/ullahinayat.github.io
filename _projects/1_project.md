@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Political Culture and Norms (seminar)
-description: MA seminar discussing where political culture and norms come from and how they change
+description: MA seminar discussing where political culture and norms come from and how they change.
 img: /assets/img/12.jpg
 importance: 1
 category: Behavior 
@@ -15,8 +15,8 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
+    title: Political Culture and Norms (seminar)
+    description: MA seminar discussing where political culture and norms come from and how they change.
     img: /assets/img/12.jpg
     ---
 
