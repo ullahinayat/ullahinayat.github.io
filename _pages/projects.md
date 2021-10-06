@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: 
-display_categories: [Comparative Politics, Research Methods]
+permalink: /teaching/
+description: Soon to be filled with syllabi and infos.
+nav: true
+display_categories: [work, fun]
 horizontal: false
-order: 5
+order: 6 
 ---
-
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
