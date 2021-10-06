@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 description: Soon to be filled with syllabi and infos.
 nav: true
-display_categories: [work, fun]
+display_categories: [Comparative, Behavior, Methods]
 horizontal: false
 order: 6 
 ---
