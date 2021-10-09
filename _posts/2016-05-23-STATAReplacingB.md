@@ -13,7 +13,7 @@ Everything went smoothly but for some reason there was no variation whatsoever i
 
 Turned out the issue was that stata does not want users to replace the built-in coefficients matrix e(b). Yet, this was what my idea was all about.
 
-To solve the issue I wrote a wrapper (download: [here](https://danbischof.github.io/assets/code/emdb.ado)). You will need to unpack the .zip and copy the ado into your stata ado file directory (find a how to do: here). Let's just consider the following very short example:
+To solve the issue I wrote a wrapper (download: [here]({{ site.baseurl }}/assets/code/emdb.ado)). You will need to unpack the .zip and copy the ado into your stata ado file directory (find a how to do: here). Let's just consider the following very short example:
 
 1. load example data:
 ```bash

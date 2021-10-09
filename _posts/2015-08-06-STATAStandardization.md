@@ -15,4 +15,4 @@ standard2 variable1 variable2
 ```
 It will then create three new variables for each variable specified, e.g. for variable1: std2_variable1 (variable1 standardized by 2 std. dev.); mc_variable1 (variable1 mean centered); log_variable1=log(variable1+1)).
 
-The program can be downloaded as an stata ado file [here](https://danbischof.github.io/assets/code/emdb.ado). You will need to unpack the .zip and copy the ado into your stata ado file directory (find a how to do: here).
+The program can be downloaded as an stata ado file [here]({{ site.baseurl }}/assets/code/emdb.ado). You will need to unpack the .zip and copy the ado into your stata ado file directory (find a how to do: here).
