@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stata, simulations & replacing built-in matrix e(b)  
-date: 2021-10-05 16:25:00
+date: 2016-05-23 16:00:00
 description: how to replace e(b) matrix in Stata 
 ---
 
@@ -13,7 +13,7 @@ Everything went smoothly but for some reason there was no variation whatsoever i
 
 Turned out the issue was that stata does not want users to replace the built-in coefficients matrix e(b). Yet, this was what my idea was all about.
 
-To solve the issue I wrote a wrapper (download: [here](danbischof.github.io/assets/code/emdb.ado)). Let's just consider the following very short example:
+To solve the issue I wrote a wrapper (download: [here](https://danbischof.github.io/assets/code/emdb.ado)). Let's just consider the following very short example:
 
 1. load example data:
 ```bash
