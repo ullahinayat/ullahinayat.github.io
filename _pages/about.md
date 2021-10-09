@@ -11,7 +11,6 @@ profile:
     <p>Building: 1340, Room: 234</p>
     <p>Bartholins Allé 7, DK</p>
     <p>8000 Aarhus C, DK</p>
-    <p>[CV](https://danbischof.github.io/assets/pdf/danielbischof_cv.pdf)</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
