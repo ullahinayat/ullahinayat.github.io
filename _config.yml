@@ -11,8 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Daniel Bischof's webpage. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
- #Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos by <a href="https://ca.ttaneo.com" target="_blank">Daniel Cattaneo</a>.
+  Photos by <a href="http://ca.ttaneo.com/" target="_blank">Daniel Cattaneo</a>.
 
 icon: 🔥 # the emoji used as the favicon
 url: https://danbischof.github.io # the base hostname & protocol for your site
