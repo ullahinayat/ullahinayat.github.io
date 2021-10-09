@@ -22,4 +22,4 @@ Afterwwards you can then set one of the schemes as your default scheme:
 set scheme plottig, permanently
 ```
 
-If you have more questions please get in touch. But before getting in touch make sure that your issue is not addressed in this [PDF](danbischof.github.io/assets/pdf/Bischof,%202018,%20blindschemes_howto.pdf)
+If you have more questions please get in touch. But before getting in touch make sure that your issue is not addressed in this [PDF](dhttps://danbischof.github.io/assets/pdf/Bischof,%202018,%20blindschemes_howto.pdf)
