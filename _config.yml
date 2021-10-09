@@ -11,8 +11,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Daniel Bischof's webpage. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+ #Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos by <a href="https://ca.ttaneo.com" target="_blank">Daniel Cattaneo</a>.
 
 icon: 🔥 # the emoji used as the favicon
 url: https://danbischof.github.io # the base hostname & protocol for your site
@@ -76,7 +76,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: News   # your blog must have a name for it to show up in the nav bar
+blog_name: Blog   # your blog must have a name for it to show up in the nav bar
 blog_description: 
 permalink: /blog/:year/:title/
 
@@ -102,7 +102,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 3
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
