@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Photos by <a href="http://ca.ttaneo.com/" target="_blank">Daniel Cattaneo</a>.
 
-icon:  # 🔥 the emoji used as the favicon
+icon: 🔥 # 🔥 the emoji used as the favicon
 url: https://danbischof.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
@@ -145,7 +145,6 @@ plugins:
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
-  - jekyll-seo-tag
 
 # Extras
 github: [metadata]
