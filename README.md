@@ -1,9 +1,8 @@
-# al-folio
+# My webpage: www.danbischof.com 
 
 ## information
 This is the code of my webpage based upon the awesome **al-folio** theme: 
-
-<a href="https://github.com/alshedivat/al-folio" target="_blank"></a>
+[al-folio](https://github.com/alshedivat/al-folio)
 
 
 ## License
