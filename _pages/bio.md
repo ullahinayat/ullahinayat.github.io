@@ -28,6 +28,12 @@ order: 2
 
 I am an Associate Professor of Political Science at the Department of Political Science, Aarhus University and a SNF Ambizione Grant Holder (Senior Researcher) at the Department of Political Science, University of Zurich. Before joining Aarhus, I was a postdoc and Ambizione Grant Holder at the University of Zurich. I finished my Ph.D. studies at the University of Leicester graduating with an MA from the University of Bamberg. Born and raised in a small village close to Tübingen (Germany), I grew up in a political family, my mother was active in the local Social Democratic party while my grandfather was part of his municipality's council. Already in my teenage years, my interest in politics was not only sparked by my closer family being active in local politics but also by trying to understand the fascist past of my country and parts of my own family. This background also drives my research interest today, focusing on questions about political norms and radicalism mainly.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/db_sitting.jpg title: "example image" class: "img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 ## Short Research Overview:
 
