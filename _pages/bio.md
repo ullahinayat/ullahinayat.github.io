@@ -28,13 +28,6 @@ order: 2
 
 I am an Associate Professor of Political Science at the Department of Political Science, Aarhus University and a SNF Ambizione Grant Holder (Senior Researcher) at the Department of Political Science, University of Zurich. Before joining Aarhus, I was a postdoc and Ambizione Grant Holder at the University of Zurich. I finished my Ph.D. studies at the University of Leicester graduating with an MA from the University of Bamberg. Born and raised in a small village close to Tübingen (Germany), I grew up in a political family, my mother was active in the local Social Democratic party while my grandfather was part of his municipality's council. Already in my teenage years, my interest in politics was not only sparked by my closer family being active in local politics but also by trying to understand the fascist past of my country and parts of my own family. This background also drives my research interest today, focusing on questions about political norms and radicalism mainly.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/db_sitting.jpg title: "example image" class: "img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-
 ## Short Research Overview:
 
 A major goal of me as an academic is to find and answer research questions that are relevant to both the academic as well as the public debate. Currently, my major research area seeks to understand how norms change in our societies; this also means that I am returning to questions that sparked my original interest in politics. Norms can be understood as collective representations of acceptable group conduct and individual behavior. They guide our everyday behavior, and how we behave depends hugely on the context in which we are in. For instance, it is a norm that we do not litter in public; but if persons sense that they are unwatched they become more likely to litter in public. Similarly, political norms might change due to context shifting: The rise of fascist parties during the 1920/30s in Germany and Italy is a prime example of a radical change of political norms.
