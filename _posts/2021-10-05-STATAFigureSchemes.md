@@ -34,7 +34,7 @@ Afterwards you can then set one of the schemes as your default scheme:
 set scheme plottig, permanently
 ```
 
-If you have more questions please get in touch. But before getting in touch make sure that your issue is not addressed in this [PDF]({{ site.baseurl }}/assets/pdf/Bischof,%202018,%20blindschemes_howto.pdf).
+If you have more questions please get in touch. But before getting in touch make sure that your issue is not addressed in this [PDF]({{ site.baseurl }}/assets/pdf/Bischof2018blindschemes_howto.pdf).
 
 In the last years the amount of user-written schemes has exploded. To get an overview check out this <a href="https://github.com/asjadnaqvi/Stata-schemes">github repository</a> as well as this <a href="https://medium.com/the-stata-guide/stata-schemes-5ef99d099585">blog post</a>.
 
