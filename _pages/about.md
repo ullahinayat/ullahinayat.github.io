@@ -22,9 +22,9 @@ I am an Associate Professor *(tenured)* of Political Science at the Department o
 
 My major research interest focuses on trying to understand how social norms shift in our societies. Currently I am particularly interested in: 
 
-a) trying to understand how extreme positions by political elites and the media affect public opinion ([see my SNSF Ambizione Project: Causes & Consequences of Extreme Party Entrance](https://extremeentrance.github.io))
+a) trying to understand how extreme positions by political elites and the media affect public opinion (SNSF Ambizione Project: [Causes & Consequences of Extreme Party Entrance](https://extremeentrance.github.io))
 
-b) understanding what democratic norms are on the citizen-level and which role elite behavior places for the public's perception of democratic norms   
+b) understanding what democratic norms are on the citizen-level and which role elite behavior places for the public's perception of democratic norms (Carlsberg Foundation Young Research Fellowship & AUFF Starting Grant: [DEMNORM - Democratic Norms](https://demnorm.github.io/)) 
 
 In my research, I seek to address research questions which are relevant to both the academic as well as the public debate. My studies are primarily empirically oriented using research designs which seek to rigorously test theoretical arguments mostly with (quasi-)experimental designs.
 
