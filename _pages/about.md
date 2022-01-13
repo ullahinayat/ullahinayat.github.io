@@ -20,7 +20,13 @@ order: 1
 
 I am an Associate Professor *(tenured)* of Political Science at the Department of Political Science at Aarhus University and a SNSF Ambizione Grant Holder at the University of Zurich. 
 
-My major research interest focuses on trying to understand how norms shift in our societies. For instance, in my [SNSF Ambizione Project](https://extremeentrance.github.io) I study how the emergence of radical parties changes people's perception of norms in politics, discourses and behavior. In my research, I seek to address research questions which are relevant to both the academic as well as the public debate. My studies are primarily empirically oriented using research designs which seek to rigorously test theoretical arguments mostly with (quasi-)experimental designs.
+My major research interest focuses on trying to understand how social norms shift in our societies. Currently I am particularly interested in: 
+
+a) trying to understand how extreme positions by political elites and the media affect public opinion ([see my SNSF Ambizione Project: Causes & Consequences of Extreme Party Entrance](https://extremeentrance.github.io))
+
+b) understanding what democratic norms are on the citizen-level and which role elite behavior places for the public's perception of democratic norms   
+
+In my research, I seek to address research questions which are relevant to both the academic as well as the public debate. My studies are primarily empirically oriented using research designs which seek to rigorously test theoretical arguments mostly with (quasi-)experimental designs.
 
 &nbsp;
 {:refdef: style="text-align: center;"}
