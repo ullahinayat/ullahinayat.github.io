@@ -39,6 +39,6 @@ I study political culture and norms across a wide set of topics and contexts:
 1.  I analyze how socialization processes affect political identities and the construction of political norms. Does military service produce radicals? Or is it the case that more radicals select into the military service?
 1.  Violence, as well as exclusionary policies against minorities, are a central concern also in advanced democracies. In several projects, I try to understand under which societal conditions exclusionary practices occur and how historical legacies of exclusion affect us today.
 
-In previous research, I studied public opinion formation, party competition, diffusion processes, and political protest. My research has been published or is forthcoming in the *American Journal of Political Science*, the *American Political Science Review*, and the *British Journal of Political Science* amongst others.
+In previous research, I studied public opinion formation, party competition, diffusion processes, and political protest. My research has been published or is forthcoming in the *American Journal of Political Science*, the *American Political Science Review*, the *British Journal of Political Science*, and the *Journal of Politics* amongst others.
 
 
