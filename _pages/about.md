@@ -24,7 +24,7 @@ I primarily work on and teach *Comparative Politics*, *Political Behavior* and *
 
 1.) **The Causes & Consequences of Extreme Party Entrance** (funded by SNSF Ambizione Grant: [www.extremeentrance.github.io](https://extremeentrance.github.io))
 
-2.) **DEMNORM - Democratic Norms** (funded by Carlsberg Foundation Young Research Fellowship & AUFF Starting Grant: [https://demnorm.github.io/](https://demnorm.github.io/)) 
+2.) **DEMNORM - Democratic Norms** (funded by Carlsberg Foundation Young Research Fellowship & AUFF Starting Grant: [www.demnorm.github.io](https://demnorm.github.io/)) 
 
 &nbsp;
 {:refdef: style="text-align: center;"}
