@@ -2,6 +2,18 @@
   - firstname: ["Roman", "{with Roman Senninger}", "Roman Senninger"]
     url: https://romansenninger.github.io
 
+"Roman Senninger":
+  - firstname: ["Roman", "{with Roman Senninger}", "Roman Senninger"]
+    url: https://romansenninger.github.io
+
+"with Roman Senninger":
+  - firstname: ["Roman", "{with Roman Senninger}", "Roman Senninger"]
+    url: https://romansenninger.github.io
+
+"{with Roman Senninger}":
+  - firstname: ["Roman", "{with Roman Senninger}", "Roman Senninger"]
+    url: https://romansenninger.github.io
+
 "Podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
