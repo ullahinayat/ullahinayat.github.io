@@ -1,10 +1,6 @@
-"Senninger":
-  - firstname: ["Roman", "Roman Senninger"]
-    url: https://romansenninger.github.io
-
-"Foos":
-  - firstname: ["Florian", "Florian Foos"]
-    url: http://www.florianfoos.net
+"Bernardi":
+  - firstname: ["Luca", "Luca Bernardi"]
+    url: https://www.liverpool.ac.uk/politics/staff/luca-bernardi/
 
 "Cheng-Matsuno":
   - firstname: ["Vanessa", "Vanessa Cheng-Matsuno"]
@@ -13,6 +9,18 @@
 "Cohen":
   - firstname: ["Gidon", "Gidon Cohen"]
     url: https://www.durham.ac.uk/staff/gidon-cohen/
+
+"Ezrow":
+  - firstname: ["Lawrence", "Lawrence Ezrow"]
+    url: https://ljezrow.com
+
+"Fink":
+  - firstname: ["Simon", "Simon Fink"]
+    url: https://www.uni-goettingen.de/de/pd-dr-simon-fink/495339.html
+
+"Foos":
+  - firstname: ["Florian", "Florian Foos"]
+    url: http://www.florianfoos.net
 
 "Kuhn":
   - firstname: ["Patrick", "Patrick M.", "Patrick M. Kuhn"]
@@ -34,6 +42,14 @@
   - firstname: ["Valentin", "Valentin Lang"]
     url: http://www.valentinlang.com
 
+"L{\"u}histe":
+  - firstname: ["Maarja", "Maarja L{\"u}histe"]
+    url: https://www.ncl.ac.uk/gps/staff/profile/maarjaluhiste.html
+
+"Morales":
+  - firstname: ["Laura", "Laura Morales"]
+    url: https://www.sciencespo.fr/centre-etudes-europeennes/fr/chercheur/laura-morales.html
+
 "Nanou":
   - firstname: ["Kyriaki", "Kyriaki Nanou"]
     url: https://www.durham.ac.uk/staff/kyriaki-nanou/
@@ -46,6 +62,14 @@
   - firstname: ["Sascha", "Sascha Riaz"]
     url: https://saschariaz.com
 
+"Saalfeld":
+  - firstname: ["Thomas", "Thomas Saalfeld"]
+    url: https://www.uni-bamberg.de/comparpol/lehrstuhlteam/thomas-saalfeld/
+
+"Senninger":
+  - firstname: ["Roman", "Roman Senninger"]
+    url: https://romansenninger.github.io
+
 "Valentim":
   - firstname: ["Vicente", "Vicente Valentim"]
     url: https://www.vicentevalentim.com 
@@ -57,6 +81,14 @@
 "Wagner":
   - firstname: ["Markus", "Markus Wagner"]
     url: https://www.wagnermarkus.net  
+
+"Wolkenstein":
+  - firstname: ["Fabio", "Fabio Wolkenstein"]
+    url: https://politikwissenschaft.univie.ac.at/ueber-uns/mitarbeiterinnen/wolkenstein/ 
+
+"Wouters":
+  - firstname: ["Ruud", "Ruud Wouters"]
+    url: https://www.google.com/search?client=safari&rls=en&q=ruud+Wouters&ie=UTF-8&oe=UTF-8 
 
 "Ziblatt":
   - firstname: ["Daniel", "Daniel Ziblatt"]
