@@ -5,3 +5,59 @@
 "Foos":
   - firstname: ["Florian", "Florian Foos"]
     url: http://www.florianfoos.net
+
+"Cheng-Matsuno":
+  - firstname: ["Vanessa", "Vanessa Cheng-Matsuno"]
+    url: https://www.lse.ac.uk/government/people/research-students/vanessa-cheng-matsuno
+
+"Cohen":
+  - firstname: ["Gidon", "Gidon Cohen"]
+    url: https://www.durham.ac.uk/staff/gidon-cohen/
+
+"Kuhn":
+  - firstname: ["Patrick", "Patrick M.", "Patrick M. Kuhn"]
+    url: https://sites.google.com/site/pmkuhndr/home
+
+"Cohen":
+  - firstname: ["Denis", "Denis Cohen"]
+    url: https://denis-cohen.github.io
+
+"Hilbig":
+  - firstname: ["Hanno", "Hanno Hilbig"]
+    url: https://www.hannohilbig.com  
+
+"Kurer":
+  - firstname: ["Thomas", "Thomas Kurer"]
+    url: https://thomaskurer.net
+
+"Lang":
+  - firstname: ["Valentin", "Valentin Lang"]
+    url: http://www.valentinlang.com
+
+"Nanou":
+  - firstname: ["Kyriaki", "Kyriaki Nanou"]
+    url: https://www.durham.ac.uk/staff/kyriaki-nanou/
+
+"Redeker":
+  - firstname: ["Nils", "Nils Redeker"]
+    url: https://www.delorscentre.eu/de/team/profil/person/redeker
+
+"Riaz":
+  - firstname: ["Sascha", "Sascha Riaz"]
+    url: https://saschariaz.com
+
+"Valentim":
+  - firstname: ["Vicente", "Vicente Valentim"]
+    url: https://www.vicentevalentim.com 
+
+"Visalvanich":
+  - firstname: ["Neil", "Neil Visalvanich"]
+    url: http://www.neilvisal.com
+
+"Wagner":
+  - firstname: ["Markus", "Markus Wagner"]
+    url: https://www.wagnermarkus.net  
+
+"Ziblatt":
+  - firstname: ["Daniel", "Daniel Ziblatt"]
+    url: https://scholar.harvard.edu/dziblatt/home 
