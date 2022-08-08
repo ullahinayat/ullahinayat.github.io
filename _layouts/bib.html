@@ -40,9 +40,9 @@
               <b>{{author.first}} {{author.last}}</b>
             {% else %}
                 {% if coauthor_url %}
-                  with <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+                  <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
                 {% else %}
-                  with {{author.first}} {{author.last}},
+                  {{author.first}} {{author.last}},
                 {% endif %}
             {% endif %}
           {% else %}
