@@ -44,6 +44,7 @@
                 {% else %}
                   with {{author.first}} {{author.last}},
                 {% endif %}
+            {% endif %}
           {% else %}
             {% unless forloop.last %}
               {% if author_is_self %}
