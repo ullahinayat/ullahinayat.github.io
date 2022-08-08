@@ -1,3 +1,7 @@
 "Senninger":
   - firstname: ["Roman", "Roman Senninger"]
     url: https://romansenninger.github.io
+
+"Foos":
+  - firstname: ["Florian", "Florian Foos"]
+    url: http://www.florianfoos.net
