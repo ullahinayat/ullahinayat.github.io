@@ -1,5 +1,5 @@
 "Senninger":
-  - firstname: ["Roman", "Roman Senninger", "{Roman Senninger}"]
+  - firstname: ["Roman", "{with Roman Senninger}"]
     url: https://romansenninger.github.io
 
 "Podolsky":
