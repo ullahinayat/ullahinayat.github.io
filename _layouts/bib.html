@@ -40,9 +40,20 @@
               <b>{{author.first}} {{author.last}}</b>
             {% else %}
                 {% if coauthor_url %}
-                  <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+                  with <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
                 {% else %}
-                  {{author.first}} {{author.last}},
+                  with {{author.first}} {{author.last}},
+                {% endif %}
+            {% endif %}
+          {% else %}
+          {% if forloop.length == 2 %}
+            {% if author_is_self %}
+              <b>{{author.first}} {{author.last}}</b>
+            {% else %}
+                {% if coauthor_url %}
+                  with <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+                {% else %}
+                  with {{author.first}} {{author.last}},
                 {% endif %}
             {% endif %}
           {% else %}
