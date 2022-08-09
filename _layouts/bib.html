@@ -48,7 +48,7 @@
           {% else %}
             {% unless forloop.last %}
               {% if author_is_self %}
-                <b>{{author.first}} {{author.last}}</b>, 
+                <b>with</b> 
               {% else %}
                 {% if coauthor_url %}
                   <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>,
@@ -63,7 +63,7 @@
                 {% if coauthor_url %}
                   and <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>.
                 {% else %}
-                  and {{author.first}} {{author.last}}
+                  and {{author.first}} {{author.last}}.
                 {% endif %}
               {% endif %}
             {% endunless %}
