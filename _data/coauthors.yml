@@ -7,7 +7,11 @@
     url: https://www.lse.ac.uk/government/people/research-students/vanessa-cheng-matsuno
 
 "Cohen":
-  - firstname: ["Gidon", "Gidon Cohen"]
+  - firstname: ["Denis", "Denis Cohen"]
+    url: https://denis-cohen.github.io
+
+"Cohen":
+  - firstname: ["Gidon", "Gidon Cohen", "Cohen Gidon"]
     url: https://www.durham.ac.uk/staff/gidon-cohen/
 
 "Ezrow":
@@ -22,17 +26,13 @@
   - firstname: ["Florian", "Florian Foos"]
     url: http://www.florianfoos.net
 
-"Kuhn":
-  - firstname: ["Patrick", "Patrick M.", "Patrick M. Kuhn"]
-    url: https://sites.google.com/site/pmkuhndr/home
-
-"Cohen":
-  - firstname: ["Denis", "Denis Cohen"]
-    url: https://denis-cohen.github.io
-
 "Hilbig":
   - firstname: ["Hanno", "Hanno Hilbig"]
     url: https://www.hannohilbig.com  
+
+"Kuhn":
+  - firstname: ["Patrick", "Patrick M.", "Patrick M. Kuhn"]
+    url: https://sites.google.com/site/pmkuhndr/home
 
 "Kurer":
   - firstname: ["Thomas", "Thomas Kurer"]
