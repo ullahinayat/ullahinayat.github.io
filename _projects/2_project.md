@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: Democratic Norms
+title: Democratic Norms
+description: Studying which role social norms play for democracies
 img: assets/img/institutions.jpg
 importance: 2
 category: ongoing
