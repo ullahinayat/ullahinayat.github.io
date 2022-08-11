@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
-description: Complexity
-img: assets/img/complexity.png
+title: Complexity
+description: Studying the consequences of simple messages in politics 
+img: assets/img/complexity.jpeg
 importance: 3
 category: finished
 ---

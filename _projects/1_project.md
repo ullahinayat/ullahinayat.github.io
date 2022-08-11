@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: Extremism
+title: Extremism
+description: Studying the causes and consequences of extreme party emergence
 img: assets/img/invasive.jpg
 importance: 1
 category: ongoing
