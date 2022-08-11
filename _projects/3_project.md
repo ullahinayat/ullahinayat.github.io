@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: project 3
+description: Complexity
+img: assets/img/complexity.png
 importance: 3
-category: fun
+category: finished
 ---
 
 Every project has a beautiful feature showcase page.

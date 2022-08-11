@@ -1,10 +1,10 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+description: Extremism
+img: assets/img/invasive.jpg
 importance: 1
-category: work
+category: ongoing
 ---
 
 Every project has a beautiful feature showcase page.
