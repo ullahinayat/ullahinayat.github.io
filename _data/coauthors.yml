@@ -1,18 +1,99 @@
+"Bernardi":
+  - firstname: ["Luca", "Luca Bernardi"]
+    url: https://www.liverpool.ac.uk/politics/staff/luca-bernardi/
+
+"Cheng-Matsuno":
+  - firstname: ["Vanessa", "Vanessa Cheng-Matsuno"]
+    url: https://www.lse.ac.uk/government/people/research-students/vanessa-cheng-matsuno
+
+"Cohen":
+  - firstname: ["Denis", "Denis Cohen"]
+    url: https://denis-cohen.github.io
+
+"Cohen":
+  - firstname: ["Gidon", "Gidon Cohen", "Cohen Gidon"]
+    url: https://www.durham.ac.uk/staff/gidon-cohen/
+
+"Ezrow":
+  - firstname: ["Lawrence", "Lawrence Ezrow"]
+    url: https://ljezrow.com
+
+"Fink":
+  - firstname: ["Simon", "Simon Fink"]
+    url: https://www.uni-goettingen.de/de/pd-dr-simon-fink/495339.html
+
+"Foos":
+  - firstname: ["Florian", "Florian Foos"]
+    url: http://www.florianfoos.net
+
+"Hilbig":
+  - firstname: ["Hanno", "Hanno Hilbig"]
+    url: https://www.hannohilbig.com  
+
+"Kuhn":
+  - firstname: ["Patrick", "Patrick M.", "Patrick M. Kuhn"]
+    url: https://sites.google.com/site/pmkuhndr/home
+
+"Kurer":
+  - firstname: ["Thomas", "Thomas Kurer"]
+    url: https://thomaskurer.net
+
+"Lang":
+  - firstname: ["Valentin", "Valentin Lang"]
+    url: http://www.valentinlang.com
+
+"Lühiste":
+  - firstname: ["Maarja", "Maarja Lühiste"]
+    url: https://www.ncl.ac.uk/gps/staff/profile/maarjaluhiste.html
+
+"Morales":
+  - firstname: ["Laura", "Laura Morales"]
+    url: https://www.sciencespo.fr/centre-etudes-europeennes/fr/chercheur/laura-morales.html
+
+"Nanou":
+  - firstname: ["Kyriaki", "Kyriaki Nanou"]
+    url: https://www.durham.ac.uk/staff/kyriaki-nanou/
+
+"Redeker":
+  - firstname: ["Nils", "Nils Redeker"]
+    url: https://www.delorscentre.eu/de/team/profil/person/redeker
+
+"Riaz":
+  - firstname: ["Sascha", "Sascha Riaz"]
+    url: https://saschariaz.com
+
+"Saalfeld":
+  - firstname: ["Thomas", "Thomas Saalfeld"]
+    url: https://www.uni-bamberg.de/comparpol/lehrstuhlteam/thomas-saalfeld/
+
 "Senninger":
   - firstname: ["Roman", "Roman Senninger"]
     url: https://romansenninger.github.io
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Valentim":
+  - firstname: ["Vicente", "Vicente Valentim"]
+    url: https://www.vicentevalentim.com 
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Visalvanich":
+  - firstname: ["Neil", "Neil Visalvanich"]
+    url: http://www.neilvisal.com
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Vivyan":
+  - firstname: ["Nick", "Nick Vivyan"]
+    url: https://sites.google.com/view/nickvivyan/home
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Wagner":
+  - firstname: ["Markus", "Markus Wagner"]
+    url: https://www.wagnermarkus.net  
+
+"Wolkenstein":
+  - firstname: ["Fabio", "Fabio Wolkenstein"]
+    url: https://politikwissenschaft.univie.ac.at/ueber-uns/mitarbeiterinnen/wolkenstein/ 
+
+"Wouters":
+  - firstname: ["Ruud", "Ruud Wouters"]
+    url: https://www.google.com/search?client=safari&rls=en&q=ruud+Wouters&ie=UTF-8&oe=UTF-8 
+
+"Ziblatt":
+  - firstname: ["Daniel", "Daniel Ziblatt"]
+    url: https://scholar.harvard.edu/dziblatt/home 
