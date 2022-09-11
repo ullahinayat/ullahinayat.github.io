@@ -9,17 +9,18 @@ order: 2
 ---
 
 {:refdef: style="text-align: center;"}
-[CV as PDF]({{ site.baseurl }}/assets/pdf/danielbischof_cv.pdf) 
+[CV as PDF]({{ site.baseurl }}/assets/pdf/inayat.pdf) 
 {: refdef}
 &nbsp;
 
-•	2022 – to date: ISEF Research Fellow, Environmental Planning Institute (EPI), Seoul National University (SNU), Seoul, South Korea
-•	2020 – 2022: Assistant Professor Government & Public Policy- National University of Sciences & Technology(NUST), Paksitan
-•	2019 – 2020: Lecturer, COMSATS University Islamabad
-•	2016 – 2019: PhD Student, KDI School of Public Policy and Management, South Korea
-•	2012 – 2015: Lecturer), Centre for Disaster Preparedenss and Management, University of Peshawar
-•	2010 – 2012: M.Phil Student in Finance, University of Malakand, Pakistan
-•	2008 – 2010: MBA Student in Finance, IMS, University of Peshawar
+*	2022 – to date: ISEF Research Fellow, Environmental Planning Institute (EPI), Seoul National University (SNU), Seoul, South Korea
+*	2020 – 2022: Assistant Professor Government & Public Policy- National University of Sciences & Technology(NUST), Paksitan
+*	2019 – 2020: Lecturer, COMSATS University Islamabad
+
+*	2016 – 2019: PhD Student, KDI School of Public Policy and Management, South Korea
+*	2012 – 2015: Lecturer), Centre for Disaster Preparedenss and Management, University of Peshawar
+*	2010 – 2012: M.Phil Student in Finance, University of Malakand, Pakistan
+*	2008 – 2010: MBA Student in Finance, IMS, University of Peshawar
 
 
 
