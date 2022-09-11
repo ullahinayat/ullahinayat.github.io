@@ -6,12 +6,10 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Inayat
 middle_name: 
 last_name: Ullah
-email: bischof@ps.au.dk
+email: inayat@kdis.ac.kr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Daniel Bischof's webpage. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Photos by <a href="http://ca.ttaneo.com/" target="_blank">Daniel Cattaneo</a>.
+footer_text: 
 
 icon: 🧐 # 🔥 the emoji used as the favicon
 url: https://ullahinayat.github.io # the base hostname & protocol for your site
@@ -48,15 +46,15 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: danbischof # your GitHub user name
+github_username: ullahinayat # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: danbischof # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: Tk0aLxsAAAAJ&hl=de # your Google Scholar ID
-orcid_id: 0000-0001-9400-1001 # your ORCID ID
+twitter_username: inayatamin # your Twitter handle
+linkedin_username: inayatullahamin # your LinkedIn user name
+scholar_userid: JwcKpJgAAAAJ&hl=en  # your Google Scholar ID
+orcid_id: 0000-0003-0520-0311  # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
-publons_id: AAB-4061-2019 # your ID on Publons
+publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
@@ -68,8 +66,8 @@ stackoverflow_id: #your stackoverflow id
 contact_note: >
   best way to reach me: email!
 
-google_analytics: UA-53732984-2 # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+google_analytics: # out your google-analytics code
+panelbear_analytics:  # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -84,7 +82,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: DB # put your disqus shortname
+disqus_shortname: IU # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
