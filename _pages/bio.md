@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bio and CV
+title: Bio & CV
 permalink: /bio/
 description: # A growing collection of your cool projects.
 nav: true
