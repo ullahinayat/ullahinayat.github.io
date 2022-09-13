@@ -20,6 +20,7 @@ order: 1
 
 
 Welcome to my personal homepage!
+
 I am currently based in Seoul, South Korea where I have been working as an ISEF Research Fellow at the Environmental Planning Institute (EPI), Seoul National University (SNU). Before joining SNU, I worked as Assistant Professor, at the National University of Sciences and Technology (NUST) Pakistan. I received Ph.D in Public Policy from the Korea Development Institute (KDI), School of Public Policy and Management under the Global Ambassador’s Scholarship Program.
 
 I primarily work with impact evaluation methods in experimental and quasi-experimental settings that helps policy analysts assess the effectiveness of government policies in an unbiased way. My work is mainly empirical using causal research designs. For instance, during my doctoral research, I was able to find ideal conditions for a quasi-natural experiment in which I exploited a countrywide education survey to evaluate the impact of public schools' monitoring system in the northwestern province of Pakistan. Alongside my co-advisors, we utilized a large-scale dataset to study various dimensions of governance through powerful research designs. My other dissertation paper empirically examined the effect of inclusive governance in protected areas on environmental outcomes. Recently, as a principal researcher, I have successfully completed a research project that focused on the impact evaluation of the land-record computerization in the Punjab province, Pakistan.  Following are my ongoing and recently completed projects:
