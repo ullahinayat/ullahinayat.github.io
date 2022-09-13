@@ -4,7 +4,7 @@ title: Funded Research Projects
 permalink: /projects/
 description: Below you can find an overview of my *ongoing* and *finished* research projects
 nav: true
-order: 8
+order: 6
 display_categories: [ongoing, finished]
 horizontal: false
 ---
