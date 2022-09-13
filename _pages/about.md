@@ -25,9 +25,9 @@ I am currently based in Seoul, South Korea where I have been working as an ISEF 
 I primarily work with impact evaluation methods in experimental and quasi-experimental settings that helps policy analysts assess the effectiveness of government policies in an unbiased way. My work is mainly empirical using causal research designs. For instance, during my doctoral research, I was able to find ideal conditions for a quasi-natural experiment in which I exploited a countrywide education survey to evaluate the impact of public schools' monitoring system in the northwestern province of Pakistan. Alongside my co-advisors, we utilized a large-scale dataset to study various dimensions of governance through powerful research designs. My other dissertation paper empirically examined the effect of inclusive governance in protected areas on environmental outcomes. Recently, as a principal researcher, I have successfully completed a research project that focused on the impact evaluation of the land-record computerization in the Punjab province, Pakistan.  Following are my ongoing and recently completed projects:
 As a researcher, I seek to scientifically answer three important questions: 
 
-a) Whether changes in the well-being of individuals and groups are genuinely attributed to a particular project, program, or policy?
-b) What type of program or policy do governments need to improve the standard of life (including happiness) of common citizens?
-c) What is the best use of scientific knowledge for existing societies and generations to come?  
+* Whether changes in the well-being of individuals and groups are genuinely attributed to a particular project, program, or policy?
+* What type of program or policy do governments need to improve the standard of life (including happiness) of common citizens?
+* What is the best use of scientific knowledge for existing societies and generations to come?  
   
 &nbsp;
 {:refdef: style="text-align: center;"}
