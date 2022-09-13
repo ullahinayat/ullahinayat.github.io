@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Funded Research Projects
+title: Research Projects
 permalink: /projects/
 description: Below you can find an overview of my *ongoing* and *finished* research projects
 nav: true
