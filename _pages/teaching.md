@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 permalink: /teaching/
 description: Overview of my teaching portfolio
 nav: true
