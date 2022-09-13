@@ -13,7 +13,7 @@ profile:
     <p>South Korea</p>
 
 news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 order: 1
 ---
@@ -33,6 +33,6 @@ My work is mainly empirically oriented using research designs that rigorously te
 
 &nbsp;
 {:refdef: style="text-align: center;"}
-[CV as PDF]({{ site.baseurl }}/assets/pdf/inayat.pdf) 
+[CV as PDF]({{ site.baseurl }}/assets/pdf/Resume-Inayat Ullah.pdf) 
 {: refdef}
 &nbsp;
