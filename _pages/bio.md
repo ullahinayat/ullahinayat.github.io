@@ -8,7 +8,7 @@ horizontal: false
 order: 2
 ---
 {:refdef: style="text-align: center;"}
-[CV as PDF]({{ site.baseurl }}/assets/pdf/inayat.pdf) 
+[CV as PDF]({{ site.baseurl }}/assets/pdf/Resume-Inayat Ullah.pdf) 
 {: refdef}
 &nbsp;
 
