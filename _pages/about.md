@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="https://en.snu.ac.kr/"> *Seoul National University</a>. 
+description: <a href="https://en.snu.ac.kr/"> </b>Seoul National University</b></a>. 
 
 profile:
   align: right
