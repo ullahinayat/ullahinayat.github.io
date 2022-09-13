@@ -13,13 +13,13 @@ profile:
     <p>South Korea</p>
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 order: 1
 ---
 
 
-I am currently based in Seoul, South Korea where I have been working as an ISEF Research Fellow at the Environmental Planning Institute (EPI), Seoul National University (SNU). Before joining SNU, I worked as Assistant Professor, at National University of Sciences and Technology (NUST). I received Ph.D in Public Policy from the Korea Development Institute (KDI), School of Public Policy and Management under the Global Ambassador’s Scholarship Program.
+Welcome to my personal website. I am currently based in Seoul, South Korea where I have been working as an ISEF Research Fellow at the Environmental Planning Institute (EPI), Seoul National University (SNU). Before joining SNU, I worked as Assistant Professor, at the National University of Sciences and Technology (NUST) Pakistan. I received Ph.D in Public Policy from the Korea Development Institute (KDI), School of Public Policy and Management under the Global Ambassador’s Scholarship Program.
 
 I primarily work with impact evaluation methods in experimental and quasi-experimental settings that helps policy analysts assess the effectiveness of government policies in an unbiased way. As a researcher, I seek to scientifically answer three important questions: a) What is the most important reason behind slow socio-economoic development of societies in comparative perspective? b) what type of policies do governments need to improve the standard of life (including happiness) of common citizens ? c) What is the best use of scientific knowledge for existing societies and generations to come?  
 
