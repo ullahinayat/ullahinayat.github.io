@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-description: <a href="https://en.snu.ac.kr/">Seoul National University</a> & <a href="https://nust.edu.pk/">National University of Science & Technology</a>. 
+description: <a href="https://en.snu.ac.kr/"> **Seoul National University</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Building: ____, Room: ___</p>
+    <p>Building: 82, Room: 417</p>
     <p>Seoul National University</p>
     <p>South Korea</p>
 
