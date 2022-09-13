@@ -4,7 +4,7 @@ title: Bio & CV
 permalink: /bio/
 description: # A growing collection of your cool projects.
 nav: true
-horizontal: true
+horizontal: false
 order: 2
 ---
 {:refdef: style="text-align: center;"}
