@@ -11,6 +11,7 @@ order: 2
 [CV as PDF]({{ site.baseurl }}/assets/pdf/inayat.pdf) 
 {: refdef}
 &nbsp;
+
 *	2022 – to date: ISEF Research Fellow, Environmental Planning Institute (EPI), Seoul National University (SNU), Seoul, South Korea
 *	2020 – 2022: Assistant Professor Government & Public Policy- National University of Sciences & Technology (NUST), Paksitan
 *	2019 – 2020: Lecturer, COMSATS University Islamabad
@@ -19,7 +20,9 @@ order: 2
 *	2010 – 2012: M.Phil Student in Finance, University of Malakand, Pakistan
 *	2008 – 2010: MBA Student in Finance, IMS, University of Peshawar
 &nbsp;
+
 ## Short Bio:
+
 I am currently based in Seoul, South Korea where I have been working as an ISEF Research Fellow at the Environmental Planning Institute (EPI), Seoul National University (SNU). Before joining SNU, I worked as Assistant Professor, at National University of Sciences and Technology (NUST). I received Ph.D in Public Policy from the Korea Development Institute (KDI), School of Public Policy and Management under the Global Ambassador’s Scholarship Program.
 
 ## Short Research Overview:
