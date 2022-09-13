@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 description: Overview of my teaching portfolio
 nav: true
-order: 6 
+order: 7 
 ---
 
 **Current coursework:**
