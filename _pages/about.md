@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: <a href="https://en.snu.ac.kr/">Seoul National University</a> & <a href="https://nust.edu.pk/">National University of Science & Technology</a>. 
 
