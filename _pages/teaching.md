@@ -24,5 +24,5 @@ order: 7
 
 **University of Peshawar** 
 *  [MSc Disaster Management:] *Disaster Risk and Sustainable Development*
-*  [BS Disaster Management]   *Project Planning and Management in Disaster Management*
+*  [BS Disaster Management]   *Project Planning and Management*
 
