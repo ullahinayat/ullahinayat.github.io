@@ -2,7 +2,7 @@
 layout: page
 title: vulnerability of the salaried middle class
 description: Assessment of Vulnerability to Poverty of the Working Middle Class in Times of Crises in Pakistan with Wajiha Haq, S3H NUST
-img: assets/img/project-3.jpg
+img: assets/img/project-3.JPG
 importance: 3
 category: ongoing
 ---
