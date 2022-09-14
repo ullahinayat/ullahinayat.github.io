@@ -2,7 +2,7 @@
 layout: page
 title: Digitization and Governance 
 description: Impact Evaluation of the Land Record Management Information System in the Punjab Province, Pakistan
-img: assets/img/invasive.jpg
+img: assets/img/project-1.jpg
 importance: 1
 category: finished
 ---
