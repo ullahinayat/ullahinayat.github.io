@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Complexity
-description: Studying the consequences of simple messages in politics 
-img: assets/img/complexity.jpeg
+title: vulnerability of the salaried middle class
+description: Assessment of Vulnerability to Poverty of the Working Middle Class in Times of Crises in Pakistan with Wajiha Haq, S3H NUST
+img: assets/img/project-3.jpg
 importance: 3
-category: finished
+category: ongoing
 ---
-
-This site is under construction. More information will follow soon.  
+In this ongoing research project, we measure the extent to which middle-income salaried class is vulnerable to poverty given their constrained socio-economic conditions. We focus on employees belonging to three sectors including health, education and IT.
+  
