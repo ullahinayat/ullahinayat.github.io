@@ -1,13 +1,9 @@
 ---
 layout: page
-title: Democratic Norms
-description: Studying which role social norms play for democracies
-img: assets/img/institutions.jpg
+title: Sub-optimality in Vulnerable Parents's Decision Making Process
+description: 	Assessment of parents’ preferences towards children schooling: an intervention-based study of vulnerable migrant/ Afghan refugees in Pakistan  with Saeeda Khanum, Saqib Hussain and Nadia Raza. 
+img: assets/img/Project-2
 importance: 2
 category: ongoing
 ---
-
-This site is under construction. More information will follow soon.  
-
-But you can find more information on the project on its webpage: 
-**DEMNORM - Democratic Norms** (funded by Carlsberg Foundation Young Research Fellowship & AUFF Starting Grant: [www.demnorm.github.io](https://demnorm.github.io/)) 
+In this ongoing research project, we survey vulnerable Afghan migrant parents and children residing in Pakistan to understand parental perspective of children’s schooling. Our objective is to identify factors that affect parent’s decision making process in the context of child-labor.  
