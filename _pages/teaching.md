@@ -8,13 +8,13 @@ order: 7
 ---
 
 **National University of Sciences & Technology (NUST)**
-*  [Graduate MS PA @NUST:] *Applied Statistics for Public Policy* [(Syllabus)]({{site.baseurl}}/assets/pdf/Course Outline-Applied Statistics for Management.pdf)  [Student’s Project]( assets/pdf/Project-Assignment-Applied Statistics.pdf)
-*  [Undergraduate BS PA @NUST] *Comparative Public Administration*[(Syllabus)](assets/pdf/Course Outline-CPA.pdf) 
-*  [Undergraduate BS PA @NUST] *Applied Statistics for Management*[(Syllabus)](assets/pdf/Course Outline-Applied Statistics for Management.pdf) 
-*  [Undergraduate BS PA @NUST] *Public Financial Management*[(Syllabus)](assets/pdf/Course Outline-Public Financial Management.pdf)  
-*  [Undergraduate BS PA @NUST] *Economics-II*[(Syllabus)](assets/pdf/Course Outline-Economics-II.pdf)  
-*  [Undergraduate BS PA @NUST] *Economics-I[(Syllabus)](assets/pdf/Course Outline-Economics.pdf) 
-*  [Undergraduate BS PA @NUST] *Introduction to Public Administration*[(Syllabus)](assets/pdf/Outline-Introduction to Public Administration.pdf)  
+*  [Graduate MS PA @NUST:] *Applied Statistics for Public Policy* [(Syllabus)]({{site.baseurl}}/assets/pdf/Course Outline-Applied Statistics for Management.pdf)  [Student’s Project]({{site.baseurl}}assets/pdf/Project-Assignment-Applied Statistics.pdf)
+*  [Undergraduate BS PA @NUST] *Comparative Public Administration*[(Syllabus)]({{site.baseurl}}/assets/pdf/Course Outline-CPA.pdf) 
+*  [Undergraduate BS PA @NUST] *Applied Statistics for Management*[(Syllabus)]({{site.baseurl}}/assets/pdf/Course Outline-Applied Statistics for Management.pdf) 
+*  [Undergraduate BS PA @NUST] *Public Financial Management*[(Syllabus)]({{site.baseurl}}/assets/pdf/Course Outline-Public Financial Management.pdf)  
+*  [Undergraduate BS PA @NUST] *Economics-II*[(Syllabus)]({{site.baseurl}}/assets/pdf/Course Outline-Economics-II.pdf)  
+*  [Undergraduate BS PA @NUST] *Economics-I[(Syllabus)]({{site.baseurl}}/assets/pdf/Course Outline-Economics.pdf) 
+*  [Undergraduate BS PA @NUST] *Introduction to Public Administration*[(Syllabus)]({{site.baseurl}}/assets/pdf/Outline-Introduction to Public Administration.pdf)  
 
 **COMSATS University Islamabad (CUI)**
 *  [MS PUblic Administration] *Statistical Inferences in Research* 
