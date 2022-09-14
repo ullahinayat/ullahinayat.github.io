@@ -8,7 +8,7 @@ order: 7
 ---
 
 **National University of Sciences & Technology (NUST)**
-*  [Graduate MS PA @NUST:] *Applied Statistics for Public Policy* [(Syllabus)](assets/pdf/Course Outline-Applied Statistics for Management.pdf)  [Student’s Project]( assets/pdf/Project-Assignment-Applied Statistics.pdf)
+*  [Graduate MS PA @NUST:] *Applied Statistics for Public Policy* [(Syllabus)](ullahinayat.github.io/assets/pdf/Course Outline-Applied Statistics for Management.pdf)  [Student’s Project]( assets/pdf/Project-Assignment-Applied Statistics.pdf)
 *  [Undergraduate BS PA @NUST] *Comparative Public Administration*[(Syllabus)](assets/pdf/Course Outline-CPA.pdf) 
 *  [Undergraduate BS PA @NUST] *Applied Statistics for Management*[(Syllabus)](assets/pdf/Course Outline-Applied Statistics for Management.pdf) 
 *  [Undergraduate BS PA @NUST] *Public Financial Management*[(Syllabus)](assets/pdf/Course Outline-Public Financial Management.pdf)  
