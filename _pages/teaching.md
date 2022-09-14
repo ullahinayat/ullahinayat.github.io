@@ -7,18 +7,20 @@ nav: true
 order: 7 
 ---
 
-**Current coursework:**
-*  [MA seminar @Aarhus:] *Political Culture and Norms: How Societies Change* [(Syllabus)]({{ site.baseurl }}/assets/pdf/Bischof_norms_syllabus.pdf)
+**National University of Sciences & Technology (NUST)**
+*  [Graduate MS PA @NUST:] *Applied Statistics for Public Policy* [(Syllabus)](***) [Course Evaluation](***)
+*  [Undergraduate BS PA @NUST] *Comparative Public Administration*[(Syllabus)](***)  [Course Evaluation](***)
+*  [Undergraduate BS PA @NUST] *Public Financial Management*[(Syllabus)](***)  [Course Evaluation](***)
+*  [Undergraduate BS PA @NUST] *Economics-II*[(Syllabus)](***)  [Course Evaluation](***)
+*  [Undergraduate BS PA @NUST] *Economics-II[(Syllabus)](***)  [Course Evaluation](***)
+*  [Undergraduate BS PA @NUST] *Introduction to Public Administration*[(Syllabus)](***)  [Course Evaluation](***)
 
-*  [BA lecture & tutorials @Aarhus:] *Political Institutions*
+**COMSATS University Islamabad (CUI)**
+*  [MS PUblic Administration] *Statistical Inferences in Research* 
+*  [MA Public Policy Analysis] *Statistical Inferences in Research*
+*  [BS Business Administration] *Financial Econometrics* 
+*  [BS Electrical Engineering] *Project Planning and Management*
 
-**Former coursework:** 
-*  [MA thesis colloquium @ETH & Uni Zurich:] *MACIS thesis colloquium* [(Syllabus)]({{ site.baseurl }}/assets/pdf/Bischof_MACIS_syllabus.pdf)
-*  [MA seminar @Zurich:] *Invasive Parties: Where New Parties Come From And How They Change Party Systems* [(Syllabus)]({{ site.baseurl }}/assets/pdf/Bischof_InvasiveParties_syllabus.pdf)
-*  [MA seminar (with Daniele Caramani) @Zurich:] *Left-Right in Global Perspective* [(Syllabus)]({{ site.baseurl }}/assets/pdf/CarmaniBischof_LeftRight_syllabus.pdf)
-
-*  [BA seminar @Zurich:] *Parteien & Parteiensysteme* [(Syllabus)]({{ site.baseurl }}/assets/pdf/Bischof_ParteienParteiensysteme_syllabus.pdf)
-*  [BA lecture & tutorials (with Daniele Caramani) @Zurich:] *Vertiefung Vergleichende Politikwissenschaft* [(Syllabus)]({{ site.baseurl }}/assets/pdf/CaramaniBischof_Vertiefung_syllabus.pdf)
-
-**Designed but not taught:** 
-*  [MA seminar:] *The Means and Ends of Party Manifestos & Party Positions* [(Syllabus)]({{ site.baseurl }}/assets/pdf/Bischof_PP_syllabus.pdf)
+**University of Peshawar** 
+*  [MSc Disaster Management:] *Disaster Risk and Sustainable Development*
+*  [BS Disaster Management]   *Project Planning and Management in Disaster Management*
