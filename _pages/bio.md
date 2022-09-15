@@ -7,10 +7,6 @@ nav: true
 horizontal: false
 order: 2
 ---
-{:refdef: style="text-align: center;"}
-[CV as PDF]({{ site.baseurl }}/assets/pdf/Resume-Inayat Ullah.pdf) 
-{: refdef}
-&nbsp;
 
 *	2022 – to date: ISEF Research Fellow, Environmental Planning Institute (EPI), Seoul National University (SNU), Seoul, South Korea
 *	2020 – 2022: Assistant Professor Government & Public Policy- National University of Sciences & Technology (NUST), Paksitan
@@ -20,4 +16,9 @@ order: 2
 *	2012 - 2013: Post-graduate Diploma in Disaster Management, University of Peshawar
 *	2010 – 2012: M.Phil Student in Finance, University of Malakand, Pakistan
 *	2008 – 2010: MBA Student in Finance, IMS, University of Peshawar
+&nbsp;
+
+{:refdef: style="text-align: center;"}
+[CV as PDF]({{ site.baseurl }}/assets/pdf/Resume-Inayat Ullah.pdf) 
+{: refdef}
 &nbsp;
