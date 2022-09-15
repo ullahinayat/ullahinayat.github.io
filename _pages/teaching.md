@@ -18,7 +18,7 @@ order: 7
 
 **COMSATS University Islamabad (CUI)**
 *  [MS PUblic Administration] *Statistical Inferences in Research* 
-*  [MA PUblic Administration] *PUblic Policy Analysis*
+*  [MA Public Administration] *Public Policy Analysis*
 *  [BS Business Administration] *Financial Econometrics* 
 *  [BS Electrical Engineering] *Project Planning and Management*
 
