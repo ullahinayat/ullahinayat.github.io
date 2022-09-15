@@ -27,8 +27,8 @@ I primarily work with impact evaluation methods in experimental and quasi-experi
 As a researcher, I seek to scientifically answer three important questions: 
 
 * Whether changes in the well-being of individuals and groups are genuinely attributed to a particular project, program, or policy?
-* What type of program or policy do governments need to improve the standard of life (including happiness) of common citizens?
-* What is the best use of scientific knowledge for existing societies and generations to come?  
+* What type of program or policy do governments need to enhance the human capital in a sustainable way? 
+* How to make best use of scientific knowledge for existing societies and generations to come?  
   
 &nbsp;
 {:refdef: style="text-align: center;"}
