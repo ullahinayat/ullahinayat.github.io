@@ -6,7 +6,7 @@ description: <a href="https://en.snu.ac.kr/"> </b>Seoul National University</b><
 
 profile:
   align: right
-  image: profilephoto-seoul.JPEG
+  image: assets/img/profilephoto-seoul.jpeg
   address: >
     <p>Building: 82, Room: 417</p>
     <p>Seoul National University</p>
