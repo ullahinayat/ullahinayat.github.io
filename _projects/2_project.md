@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sub-optimality in Vulnerable Parents's Decision Making Process
+title: Sub-optimality of Vulnerable Parents' Decision Making
 description: Assessment of parents’ preferences towards children schooling, an intervention-based study of vulnerable migrants/Afghan refugees in Pakistan. 
 img: assets/img/Project-2.jpg
 importance: 2
