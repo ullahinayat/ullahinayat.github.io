@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sub-optimality in Vulnerable Parents's Decision Making Process
-description: Assessment of parents’ preferences towards children schooling, an intervention-based study of vulnerable migrants/Afghan refugees in Pakistan  with Saeeda Khanum, Saqib Hussain and Nadia Raza. 
+description: Assessment of parents’ preferences towards children schooling, an intervention-based study of vulnerable migrants/Afghan refugees in Pakistan. 
 img: assets/img/Project-2.jpg
 importance: 2
 category: ongoing
