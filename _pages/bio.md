@@ -19,6 +19,6 @@ order: 2
 &nbsp;
 
 {:refdef: style="text-align: center;"}
-[CV as PDF]({{ site.baseurl }}/assets/pdf/Resume-Inayat Ullah.pdf) 
+[CV as PDF]({{ site.baseurl }}/assets/pdf/Resume-Inayat Ullah-SSHAP.pdf) 
 {: refdef}
 &nbsp;
