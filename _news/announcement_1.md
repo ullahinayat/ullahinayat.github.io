@@ -1,5 +1,5 @@
 ---
-news: 
+news: Anything here
 layout: post
 date: 2023-06-03
 inline: true
