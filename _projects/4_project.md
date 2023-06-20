@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Green Interventions and Social Outcomes 
+title: Green Intervention in Pakistan 
 description: Impact Evaluation of Billion Tree Tsunami Afforestation Project in the Province Khyber Pakhtunkhwa, Pakistan
 img: assets/img/project-4.jpg
 importance: 4
