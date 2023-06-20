@@ -33,4 +33,4 @@ ensuring a rigorous analysis of the project's impact. We aim to provide valuable
 effectiveness of the BTTAP in addressing environmental concerns, promoting employment, an d
 improving the overall well being of communities in Khyber Pakhtunkhwa province. The findings of
 our study contribute to the ongoing efforts towards achieving the SDGs and fostering sustainable
-development in the region.{:refdef: style="text-align: center;"}[Click here to view report]({{ site.baseurl }}/assets/pdf/cv-inayatullah.pdf) [Final Report-Billion Tree Tsunami.pdf](https://github.com/ullahinayat/inayat.github.io/files/11799047/Final.Report-Billion.Tree.Tsunami.pdf)
+development in the region.{:refdef: style="text-align: center;"}[Click here to view report]({{ site.baseurl }}/assets/pdf/Final Report-Billion Tree Tsunami.pdf)
