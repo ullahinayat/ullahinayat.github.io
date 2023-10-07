@@ -7,8 +7,8 @@ nav: true
 horizontal: false
 order: 2
 ---
-
-*	2022 – to date: ISEF Research Fellow, Environmental Planning Institute (EPI), Seoul National University (SNU), Seoul, South Korea
+* 2023 – to-date: Assistant Professor Government & Public Policy- National University of Sciences & Technology (NUST), Paksitan 
+*	2022 – 2023: ISEF Research Fellow, Environmental Planning Institute (EPI), Seoul National University (SNU), Seoul, South Korea
 *	2020 – 2022: Assistant Professor Government & Public Policy- National University of Sciences & Technology (NUST), Paksitan
 *	2019 – 2020: Lecturer, COMSATS University Islamabad
 *	2016 – 2019: PhD Student, KDI School of Public Policy and Management, South Korea
