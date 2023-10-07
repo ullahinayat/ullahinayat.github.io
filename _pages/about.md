@@ -8,8 +8,8 @@ profile:
   align: right
   image: dp2.jpg
   address: >
-    <p>Building: S3H,Office 105 (AFB) National University of Sciences & Technology (NUST)</p>
-    <p>Sector H-12, Islamabad, Pakistan</p>
+    <p>Building: S3H,Office 105 (AFB) National University of Sciences & Technology (NUST)
+    Sector H-12, Islamabad, Pakistan</p>
     
 selected_publications: true # includes a list of publications marked as "selected={true}"
 News: true  # includes a list of news items
