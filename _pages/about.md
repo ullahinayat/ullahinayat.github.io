@@ -8,9 +8,9 @@ profile:
   align: right
   image: dp2.jpg
   address: >
-    <p>Building: 82, Room: 417</p>
-    <p>Seoul National University</p>
-    <p>South Korea</p>
+    <p>Building: S3H, Room: 105 AFB </p>
+    <p>National University of Sciences & Technology (NUST)</p>
+    <p>Sector H-12, Islamabad, Pakistan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 selected_publications: true # includes a list of publications marked as "selected={true}"
