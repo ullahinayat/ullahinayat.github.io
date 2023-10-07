@@ -8,7 +8,7 @@ profile:
   align: right
   image: dp2.jpg
   address: >
-    <p>Building: S3H, Room: 105 AFB </p>
+    <p>Building: S3H,Office 105AFB </p>
     <p>National University of Sciences & Technology (NUST)</p>
     <p>Sector H-12, Islamabad, Pakistan</p>
 
