@@ -2,7 +2,7 @@
 <html>
 
   <head>
-    <meta http-equiv="refresh" content="3; url=https://ullahinayat.github.io/" />
+    
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   Inayat  Ullah
 
 
-  | Page not found
+  | Overview on Stata figure schemes
 
 </title>
 <meta name="description" content="Inayat's webpage.
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>INT</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/404.html">
+<link rel="canonical" href="/blog/2021/STATAFigureSchemes/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -202,17 +202,52 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
+
+<div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h1 class="post-title">Overview on Stata figure schemes</h1>
+    <p class="post-meta">October 5, 2021</p>
   </header>
 
-  <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://ullahinayat.github.io/">here</a>.</p>
+  <article class="post-content">
+    <p>Throughout the years, I have created several Stata figure schemes. This post gives you a brief overview about what I produced. If you want to learn more I would push you to read my Stata article on figure schemes (and some of the work Ben Jann has done).</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/plotplain.png">
+        *plotplain*
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/plottig.png">
+        *plottig*
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/538.jpg">
+        *538.jpg*
+    </div>
+</div>
+
+<p>You can install all of these schemes in Stata by using the <code class="language-plaintext highlighter-rouge">ssc install</code> command:</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssc <span class="nb">install </span>blindschemes, replace all 
+</code></pre></div></div>
+<p><code class="language-plaintext highlighter-rouge">blindschemes</code> contains the <code class="language-plaintext highlighter-rouge">plotplain</code> and <code class="language-plaintext highlighter-rouge">plottig</code> themes. If you want to install the 538 scheme, use <code class="language-plaintext highlighter-rouge">g538schemes </code> instead.</p>
+
+<p>Afterwards you can then set one of the schemes as your default scheme:</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">set </span>scheme plottig, permanently
+</code></pre></div></div>
+
+<p>If you have more questions please get in touch. But before getting in touch make sure that your issue is not addressed in this <a href="/assets/pdf/Bischof2018blindschemes_howto.pdf">PDF</a>.</p>
+
+<p>In the last years the amount of user-written schemes has exploded. To get an overview check out this <a href="https://github.com/asjadnaqvi/Stata-schemes" target="_blank" rel="noopener noreferrer">github repository</a> as well as this <a href="https://medium.com/the-stata-guide/stata-schemes-5ef99d099585" target="_blank" rel="noopener noreferrer">blog post</a>.</p>
+
+<p>PS: I will try to update this post from time to time. Get in touch if you want me ton include other themes/overview pages.</p>
+
 
   </article>
+
+  
 
 </div>
 

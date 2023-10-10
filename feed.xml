@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://ullahinayat.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ullahinayat.github.io/" rel="alternate" type="text/html" /><updated>2023-10-10T19:58:46+00:00</updated><id>https://ullahinayat.github.io/feed.xml</id><title type="html">blank</title><subtitle>Inayat&apos;s webpage.
+</subtitle><entry><title type="html">Winners of the 2023 ADB–IEA Innovative Policy Research Award</title><link href="https://ullahinayat.github.io/blog/2023/News/" rel="alternate" type="text/html" title="Winners of the 2023 ADB–IEA Innovative Policy Research Award" /><published>2023-06-03T04:31:00+00:00</published><updated>2023-06-03T04:31:00+00:00</updated><id>https://ullahinayat.github.io/blog/2023/News</id><content type="html" xml:base="https://ullahinayat.github.io/blog/2023/News/"><![CDATA[<p>Winners of the 2023 ADB–IEA Innovative Policy Research Award <a href="https://events.development.asia/learning-events/winners-2023-adb-iea-innovative-policy-research-award/"> &lt;/b&gt; Winners of the 2023 ADB–IEA Innovative Policy Research Award &lt;/b&gt;</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Asian Development Bank (ADB) and the International Economic Association (IEA) Innovative Policy Best Paper Award for the year 2023 Announcement]]></summary></entry><entry><title type="html">Overview on Stata figure schemes</title><link href="https://ullahinayat.github.io/blog/2021/STATAFigureSchemes/" rel="alternate" type="text/html" title="Overview on Stata figure schemes" /><published>2021-10-05T16:25:00+00:00</published><updated>2021-10-05T16:25:00+00:00</updated><id>https://ullahinayat.github.io/blog/2021/STATAFigureSchemes</id><content type="html" xml:base="https://ullahinayat.github.io/blog/2021/STATAFigureSchemes/"><![CDATA[<p>Throughout the years, I have created several Stata figure schemes. This post gives you a brief overview about what I produced. If you want to learn more I would push you to read my Stata article on figure schemes (and some of the work Ben Jann has done).</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/plotplain.png" />
+        *plotplain*
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/plottig.png" />
+        *plottig*
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/538.jpg" />
+        *538.jpg*
+    </div>
+</div>
+
+<p>You can install all of these schemes in Stata by using the <code class="language-plaintext highlighter-rouge">ssc install</code> command:</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssc <span class="nb">install </span>blindschemes, replace all 
+</code></pre></div></div>
+<p><code class="language-plaintext highlighter-rouge">blindschemes</code> contains the <code class="language-plaintext highlighter-rouge">plotplain</code> and <code class="language-plaintext highlighter-rouge">plottig</code> themes. If you want to install the 538 scheme, use <code class="language-plaintext highlighter-rouge">g538schemes </code> instead.</p>
+
+<p>Afterwards you can then set one of the schemes as your default scheme:</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">set </span>scheme plottig, permanently
+</code></pre></div></div>
+
+<p>If you have more questions please get in touch. But before getting in touch make sure that your issue is not addressed in this <a href="/assets/pdf/Bischof2018blindschemes_howto.pdf">PDF</a>.</p>
+
+<p>In the last years the amount of user-written schemes has exploded. To get an overview check out this <a href="https://github.com/asjadnaqvi/Stata-schemes">github repository</a> as well as this <a href="https://medium.com/the-stata-guide/stata-schemes-5ef99d099585">blog post</a>.</p>
+
+<p>PS: I will try to update this post from time to time. Get in touch if you want me ton include other themes/overview pages.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[this post gives a quick overview about the Stata figure schemes I've produced over the years]]></summary></entry><entry><title type="html">Stata, simulations &amp;amp; replacing built-in matrix e(b)</title><link href="https://ullahinayat.github.io/blog/2016/STATAReplacingB/" rel="alternate" type="text/html" title="Stata, simulations &amp;amp; replacing built-in matrix e(b)" /><published>2016-05-23T16:00:00+00:00</published><updated>2016-05-23T16:00:00+00:00</updated><id>https://ullahinayat.github.io/blog/2016/STATAReplacingB</id><content type="html" xml:base="https://ullahinayat.github.io/blog/2016/STATAReplacingB/"><![CDATA[<p>Yesterday I tried to run some simulations in stata. However, what I intended to do turned out to be a stata nightmare:</p>
+
+<p>First, I ran a conditional logit model. Second, based on the parameter estimates I wanted to take 1,000 draws (or more) from the multivariate normal distribution defined by my conditional logit model coefficients and its covariance matrix. After that I planed to calculate 1,000 predicted probabilities for each observation in my dataset. The reason why I wanted to do this was to compare a <em>factual</em> scenario existing in my dataset with a <em>counterfactual</em> one that I made up by changing some of the variables in the dataset.</p>
+
+<p>Everything went smoothly but for some reason there was no variation whatsoever in my simulations. I first did not realize what the issue was, the code was clean, the loop worked, everything seemed to be fine.</p>
+
+<p>Turned out the issue was that stata does not want users to replace the built-in coefficients matrix e(b). Yet, this was what my idea was all about.</p>
+
+<p>To solve the issue I wrote a wrapper (download: <a href="/assets/code/emdb.ado">here</a>). You will need to unpack the .zip and copy the ado into your stata ado file directory (find a how to do: here). Let’s just consider the following very short example:</p>
+
+<ol>
+  <li>load example data:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>use http://www.stata-press.com/data/r13/clogitid
+</code></pre></div>    </div>
+  </li>
+  <li>check variables:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>list y x1 x2 <span class="nb">id </span><span class="k">in </span>1/11
+</code></pre></div>    </div>
+  </li>
+  <li>calculate conditonal logit model with id as group parameter:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>clogit y x1 x2, group<span class="o">(</span><span class="nb">id</span><span class="o">)</span>
+</code></pre></div>    </div>
+  </li>
+  <li>check out the coefficients matrix:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>matrix list e<span class="o">(</span>b<span class="o">)</span> 
+<span class="o">====</span> x1 <span class="o">=</span> .65336296 x2 <span class="o">=</span> .0659169
+</code></pre></div>    </div>
+  </li>
+  <li>Let’s just say we would like to exchange x1(=0.8) and x2(=1.5)
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>generate x1_new <span class="o">=</span> 0.8
+generate x2_new <span class="o">=</span> 1.5
+</code></pre></div>    </div>
+  </li>
+  <li>Now we create a matrix from these values: (usually you will build a loop running through all ns.
+By that you can exchange the matrix for all the draws you made from the original model.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mkmat x1_new x2_new <span class="k">if </span><span class="nv">_n</span><span class="o">==</span>1, matrix<span class="o">(</span>draw<span class="o">)</span>
+</code></pre></div>    </div>
+  </li>
+  <li>check if it worked (PS:ALWAYS CALL THE MATRIX <code class="language-plaintext highlighter-rouge">draw</code>!!!! emdb is built only for this matrix name):
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>matrix list draw
+</code></pre></div>    </div>
+  </li>
+  <li>looks good. Now we can use the wrapper (<code class="language-plaintext highlighter-rouge">emdb</code>) to exchange the matrix with our draws:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>emdb
+</code></pre></div>    </div>
+  </li>
+  <li>did it work?!?
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>matrix list e<span class="o">(</span>b<span class="o">)</span>
+<span class="o">====</span>x1 <span class="o">=</span>.80000001 x2 <span class="o">=</span> 1.5
+<span class="k">*</span>-&gt; It did, Heureka!
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<p>The clue to solve the issue is <code class="language-plaintext highlighter-rouge">emdb</code>. This is the very short wrapper I wrote to force stata to let users replace e(b).</p>]]></content><author><name></name></author><summary type="html"><![CDATA[how to replace e(b) matrix in Stata]]></summary></entry></feed>

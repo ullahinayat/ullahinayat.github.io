@@ -2,7 +2,7 @@
 <html>
 
   <head>
-    <meta http-equiv="refresh" content="3; url=https://ullahinayat.github.io/" />
+    
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   Inayat  Ullah
 
 
-  | Page not found
+  | Stata, simulations & replacing built-in matrix e(b)
 
 </title>
 <meta name="description" content="Inayat's webpage.
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>INT</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/404.html">
+<link rel="canonical" href="/blog/2016/STATAReplacingB/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -202,17 +202,84 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
+
+<div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h1 class="post-title">Stata, simulations &amp; replacing built-in matrix e(b)</h1>
+    <p class="post-meta">May 23, 2016</p>
   </header>
 
-  <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://ullahinayat.github.io/">here</a>.</p>
+  <article class="post-content">
+    <p>Yesterday I tried to run some simulations in stata. However, what I intended to do turned out to be a stata nightmare:</p>
+
+<p>First, I ran a conditional logit model. Second, based on the parameter estimates I wanted to take 1,000 draws (or more) from the multivariate normal distribution defined by my conditional logit model coefficients and its covariance matrix. After that I planed to calculate 1,000 predicted probabilities for each observation in my dataset. The reason why I wanted to do this was to compare a <em>factual</em> scenario existing in my dataset with a <em>counterfactual</em> one that I made up by changing some of the variables in the dataset.</p>
+
+<p>Everything went smoothly but for some reason there was no variation whatsoever in my simulations. I first did not realize what the issue was, the code was clean, the loop worked, everything seemed to be fine.</p>
+
+<p>Turned out the issue was that stata does not want users to replace the built-in coefficients matrix e(b). Yet, this was what my idea was all about.</p>
+
+<p>To solve the issue I wrote a wrapper (download: <a href="/assets/code/emdb.ado">here</a>). You will need to unpack the .zip and copy the ado into your stata ado file directory (find a how to do: here). Let’s just consider the following very short example:</p>
+
+<ol>
+  <li>load example data:
+    <div class="language-bash highlighter-rouge">
+<div class="highlight"><pre class="highlight"><code>use http://www.stata-press.com/data/r13/clogitid
+</code></pre></div>    </div>
+  </li>
+  <li>check variables:
+    <div class="language-bash highlighter-rouge">
+<div class="highlight"><pre class="highlight"><code>list y x1 x2 <span class="nb">id </span><span class="k">in </span>1/11
+</code></pre></div>    </div>
+  </li>
+  <li>calculate conditonal logit model with id as group parameter:
+    <div class="language-bash highlighter-rouge">
+<div class="highlight"><pre class="highlight"><code>clogit y x1 x2, group<span class="o">(</span><span class="nb">id</span><span class="o">)</span>
+</code></pre></div>    </div>
+  </li>
+  <li>check out the coefficients matrix:
+    <div class="language-bash highlighter-rouge">
+<div class="highlight"><pre class="highlight"><code>matrix list e<span class="o">(</span>b<span class="o">)</span> 
+<span class="o">====</span> x1 <span class="o">=</span> .65336296 x2 <span class="o">=</span> .0659169
+</code></pre></div>    </div>
+  </li>
+  <li>Let’s just say we would like to exchange x1(=0.8) and x2(=1.5)
+    <div class="language-bash highlighter-rouge">
+<div class="highlight"><pre class="highlight"><code>generate x1_new <span class="o">=</span> 0.8
+generate x2_new <span class="o">=</span> 1.5
+</code></pre></div>    </div>
+  </li>
+  <li>Now we create a matrix from these values: (usually you will build a loop running through all ns.
+By that you can exchange the matrix for all the draws you made from the original model.
+    <div class="language-bash highlighter-rouge">
+<div class="highlight"><pre class="highlight"><code>mkmat x1_new x2_new <span class="k">if </span><span class="nv">_n</span><span class="o">==</span>1, matrix<span class="o">(</span>draw<span class="o">)</span>
+</code></pre></div>    </div>
+  </li>
+  <li>check if it worked (PS:ALWAYS CALL THE MATRIX <code class="language-plaintext highlighter-rouge">draw</code>!!!! emdb is built only for this matrix name):
+    <div class="language-bash highlighter-rouge">
+<div class="highlight"><pre class="highlight"><code>matrix list draw
+</code></pre></div>    </div>
+  </li>
+  <li>looks good. Now we can use the wrapper (<code class="language-plaintext highlighter-rouge">emdb</code>) to exchange the matrix with our draws:
+    <div class="language-bash highlighter-rouge">
+<div class="highlight"><pre class="highlight"><code>emdb
+</code></pre></div>    </div>
+  </li>
+  <li>did it work?!?
+    <div class="language-bash highlighter-rouge">
+<div class="highlight"><pre class="highlight"><code>matrix list e<span class="o">(</span>b<span class="o">)</span>
+<span class="o">====</span>x1 <span class="o">=</span>.80000001 x2 <span class="o">=</span> 1.5
+<span class="k">*</span>-&gt; It did, Heureka!
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<p>The clue to solve the issue is <code class="language-plaintext highlighter-rouge">emdb</code>. This is the very short wrapper I wrote to force stata to let users replace e(b).</p>
 
   </article>
+
+  
 
 </div>
 
